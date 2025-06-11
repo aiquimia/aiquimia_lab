@@ -8,6 +8,7 @@ import PricingFlexibleScientificAccess from "pages/pricing-flexible-scientific-a
 import AboutScientificInnovationStory from "pages/about-scientific-innovation-story";
 import PredictionStudio from "pages/prediction-studio-core-analysis-workspace";
 import SignInAuthenticationGateway from "pages/sign-in-authentication-gateway";
+import RegisterAccountCreation from "pages/register-account-creation";
 
 const Routes = () => {
   return (
@@ -21,6 +22,8 @@ const Routes = () => {
           <Route path="/about-scientific-innovation-story" element={<AboutScientificInnovationStory />} />
           <Route path="/prediction-studio-core-analysis-workspace" element={<PredictionStudio />} />
           <Route path="/sign-in-authentication-gateway" element={<SignInAuthenticationGateway />} />
+          <Route path="/register-account-creation" element={<RegisterAccountCreation />} />
+          <Route path="/create-account" element={<RegisterAccountCreation />} />
           <Route path="*" element={<NotFound />} />
         </RouterRoutes>
       </ErrorBoundary>
