@@ -68,7 +68,7 @@ const Footer = () => {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-xl font-bold text-white font-inter tracking-tight">
-                    ChemAI Lab
+                    AIquimia Lab
                   </span>
                   <span className="text-xs text-white/70 font-medium -mt-1">
                     Scientific Intelligence
@@ -135,7 +135,7 @@ const Footer = () => {
         <div className="py-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <div className="flex items-center space-x-6 text-sm text-white/70">
-              <span>© {currentYear} ChemAI Lab. All rights reserved.</span>
+              <span>© {currentYear} AIquimia Lab. All rights reserved.</span>
               <Link to="#" className="hover:text-white scientific-transition">Privacy Policy</Link>
               <Link to="#" className="hover:text-white scientific-transition">Terms of Service</Link>
               <Link to="#" className="hover:text-white scientific-transition">Cookie Policy</Link>

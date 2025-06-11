@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Icon from '../../components/AppIcon';
 import Header from '../../components/ui/Header';
 import Footer from '../homepage-ai-powered-scientific-platform/components/Footer';
 import RegistrationForm from './components/RegistrationForm';
@@ -50,7 +51,7 @@ const RegisterAccountCreation = () => {
               </h1>
               
               <p className="text-text-secondary mb-6">
-                Welcome to ChemAI Lab! We've sent a verification email to your inbox. Please verify your email to get started.
+                Welcome to AIquimia Lab! We've sent a verification email to your inbox. Please verify your email to get started.
               </p>
               
               <div className="space-y-3">

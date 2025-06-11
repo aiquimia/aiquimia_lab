@@ -62,7 +62,7 @@ const RegistrationVisualization = () => {
           </div>
           <div className="flex flex-col">
             <span className="text-2xl font-bold text-secondary font-inter tracking-tight">
-              ChemAI Lab
+              AIquimia Lab
             </span>
             <span className="text-sm text-secondary-600 font-medium -mt-1">
               Join the Scientific Revolution

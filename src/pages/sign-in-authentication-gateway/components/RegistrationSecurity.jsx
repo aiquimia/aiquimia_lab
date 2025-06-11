@@ -1,3 +1,4 @@
+// /home/ubuntu/app/chemai_lab/src/pages/sign-in-authentication-gateway/components/RegistrationSecurity.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Icon from '../../../components/AppIcon';

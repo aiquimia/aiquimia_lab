@@ -113,7 +113,7 @@ const PricingPage = () => {
       role: "Research Scientist",
       institution: "Stanford University",
       tier: "Academic Pro",
-      content: `ChemAI Lab has revolutionized our research workflow. What used to take days of computational analysis now happens in minutes. The accuracy is remarkable, and the educational features help train our graduate students effectively.`,
+      content: `AIquimia Lab has revolutionized our research workflow. What used to take days of computational analysis now happens in minutes. The accuracy is remarkable, and the educational features help train our graduate students effectively.`,
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face"
     },
     {
@@ -122,7 +122,7 @@ const PricingPage = () => {
       role: "Lead Chemist",
       institution: "Pharmaceutical Corp",
       tier: "Industry Standard",
-      content: `The API integration capabilities are outstanding. We've integrated ChemAI Lab into our drug discovery pipeline, reducing our time-to-market significantly. The commercial license gives us peace of mind for regulatory compliance.`,
+      content: `The API integration capabilities are outstanding. We've integrated AIquimia Lab into our drug discovery pipeline, reducing our time-to-market significantly. The commercial license gives us peace of mind for regulatory compliance.`,
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
     },
     {
@@ -131,7 +131,7 @@ const PricingPage = () => {
       role: "Department Head",
       institution: "MIT Chemistry",
       tier: "Enterprise",
-      content: `Our entire department relies on ChemAI Lab for both research and teaching. The enterprise features, including audit trails and compliance reporting, meet all our institutional requirements perfectly.`,
+      content: `Our entire department relies on AIquimia Lab for both research and teaching. The enterprise features, including audit trails and compliance reporting, meet all our institutional requirements perfectly.`,
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
     }
   ];
@@ -427,7 +427,7 @@ const PricingPage = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-primary mb-4">Trusted by Scientists Worldwide</h2>
             <p className="text-text-secondary">
-              See how researchers across different tiers are advancing their work with ChemAI Lab
+              See how researchers across different tiers are advancing their work with AIquimia Lab
             </p>
           </div>
 
@@ -493,7 +493,7 @@ const PricingPage = () => {
             Ready to Accelerate Your Research?
           </h2>
           <p className="text-xl text-white/90 mb-8">
-            Join thousands of scientists who trust ChemAI Lab for their molecular analysis needs
+            Join thousands of scientists who trust AIquimia Lab for their molecular analysis needs
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -532,7 +532,7 @@ const PricingPage = () => {
                   <Icon name="Atom" size={24} color="white" strokeWidth={2.5} />
                 </div>
                 <div>
-                  <span className="text-xl font-bold font-inter">ChemAI Lab</span>
+                  <span className="text-xl font-bold font-inter">AIquimia Lab</span>
                   <div className="text-sm text-white/70">Scientific Intelligence</div>
                 </div>
               </Link>
@@ -562,7 +562,7 @@ const PricingPage = () => {
 
           <div className="border-t border-white/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-white/70 text-sm">
-              © {new Date().getFullYear()} ChemAI Lab. All rights reserved.
+              © {new Date().getFullYear()} AIquimia Lab. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-white/70 hover:text-white scientific-transition">

@@ -97,7 +97,7 @@ const AboutPage = () => {
     {
       year: "2019",
       title: "Foundation & Vision",
-      description: "ChemAI Lab founded with mission to democratize molecular analysis through AI innovation.",
+      description: "AIquimia Lab founded with mission to democratize molecular analysis through AI innovation.",
       icon: "Lightbulb",
       color: "from-primary to-primary-600"
     },
@@ -125,7 +125,7 @@ const AboutPage = () => {
     {
       year: "2023",
       title: "Industry Adoption",
-      description: "Major pharmaceutical companies integrate ChemAI Lab into their drug discovery workflows.",
+      description: "Major pharmaceutical companies integrate AIquimia Lab into their drug discovery workflows.",
       icon: "Building2",
       color: "from-primary-500 to-primary-700"
     },
@@ -284,7 +284,7 @@ const AboutPage = () => {
               </h2>
               <div className="prose prose-lg max-w-none text-text-secondary mb-8">
                 <p className="mb-4">
-                  At ChemAI Lab, we believe that advanced chemistry should be accessible to every researcher, educator, and innovator worldwide. Our mission is to break down the barriers that have traditionally limited molecular analysis to well-funded laboratories with expensive equipment and specialized expertise.
+                  At AIquimia Lab, we believe that advanced chemistry should be accessible to every researcher, educator, and innovator worldwide. Our mission is to break down the barriers that have traditionally limited molecular analysis to well-funded laboratories with expensive equipment and specialized expertise.
                 </p>
                 <p className="mb-4">
                   We're transforming the landscape of chemical research by providing instant, accurate molecular property predictions that maintain the rigor and precision that chemistry demands. Through cutting-edge AI technology, we're making it possible for a graduate student in any part of the world to access the same level of molecular insight as researchers at the most prestigious institutions.
@@ -385,7 +385,7 @@ const AboutPage = () => {
                 The Solution
               </h3>
               <p className="text-text-secondary">
-                ChemAI Lab was born from this vision - an intelligent platform that transforms hours of laboratory work into instant, accurate predictions while maintaining the rigor and precision that chemistry demands. Today, we serve researchers worldwide.
+                AIquimia Lab was born from this vision - an intelligent platform that transforms hours of laboratory work into instant, accurate predictions while maintaining the rigor and precision that chemistry demands. Today, we serve researchers worldwide.
               </p>
             </div>
           </div>
@@ -734,7 +734,7 @@ const AboutPage = () => {
                   <Icon name="Atom" size={24} color="white" strokeWidth={2.5} />
                 </div>
                 <div>
-                  <div className="text-xl font-bold">ChemAI Lab</div>
+                  <div className="text-xl font-bold">AIquimia Lab</div>
                   <div className="text-sm opacity-80">Scientific Intelligence</div>
                 </div>
               </div>
@@ -787,7 +787,7 @@ const AboutPage = () => {
           
           <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row items-center justify-between">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} ChemAI Lab. All rights reserved.
+              © {new Date().getFullYear()} AIquimia Lab. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <button className="text-gray-400 hover:text-white text-sm scientific-transition">

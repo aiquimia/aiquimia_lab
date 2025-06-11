@@ -15,7 +15,7 @@ const SecurityInfo = () => {
           <div className="ml-3">
             <h3 className="text-sm font-medium text-text-primary">Secure Authentication</h3>
             <p className="mt-1 text-sm text-text-secondary">
-              Your connection to ChemAI Lab is encrypted and secured with SSL certification.
+              Your connection to AIquimia Lab is encrypted and secured with SSL certification.
             </p>
           </div>
         </div>
@@ -45,7 +45,7 @@ const SecurityInfo = () => {
           <span>•</span>
           <Link to="/terms" className="hover:text-text-secondary scientific-transition">Terms of Use</Link>
         </div>
-        <p>© {new Date().getFullYear()} ChemAI Lab. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} AIquimia Lab. All rights reserved.</p>
       </div>
     </div>
   );

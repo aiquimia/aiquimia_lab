@@ -70,7 +70,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="text-xl text-text-secondary mb-8 max-w-2xl">
-              ChemAI Lab revolutionizes molecular analysis with AI-powered predictions. Get instant property calculations, spectral analysis, and molecular insights that traditionally require hours of laboratory work.
+              AIquimia Lab revolutionizes molecular analysis with AI-powered predictions. Get instant property calculations, spectral analysis, and molecular insights that traditionally require hours of laboratory work.
             </p>
 
             {/* CTAs */}

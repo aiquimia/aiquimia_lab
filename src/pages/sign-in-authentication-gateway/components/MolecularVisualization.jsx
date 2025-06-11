@@ -58,10 +58,11 @@ const MolecularVisualization = () => {
           </div>
           <div className="flex flex-col">
             <span className="text-2xl font-bold text-primary font-inter tracking-tight">
-              ChemAI Lab
+              AIquimia Lab
             </span>
             <span className="text-sm text-primary-600 font-medium -mt-1">
               Scientific Intelligence Platform
+            
             </span>
           </div>
         </div>

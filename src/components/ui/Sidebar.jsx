@@ -85,7 +85,7 @@ const Sidebar = () => {
             </div>
             <div className="flex flex-col">
               <span className="text-lg font-bold text-primary font-inter tracking-tight">
-                ChemAI Lab
+                AIquimia Lab
               </span>
               <span className="text-xs text-text-secondary font-medium -mt-1">
                 Scientific Intelligence

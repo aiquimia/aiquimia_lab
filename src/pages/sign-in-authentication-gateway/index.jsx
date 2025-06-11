@@ -19,7 +19,7 @@ const SignInAuthenticationGateway = () => {
     // Mock API call - would be replaced with actual authentication service
     setTimeout(() => {
       // Simulate authentication
-      if (data.email === 'demo@chemai.lab' && data.password === 'password123') {
+      if (data.email === 'demo@aiquimia.lab' && data.password === 'password123') {
         // Success - redirect would happen here
         window.location.href = '/prediction-studio-core-analysis-workspace';
       } else {
@@ -45,7 +45,7 @@ const SignInAuthenticationGateway = () => {
           <div className="w-full lg:w-3/5 p-8 md:p-12">
             <div className="max-w-md mx-auto">
               <div className="text-center mb-8">
-                <h1 className="text-3xl font-bold text-primary mb-2">Sign In to ChemAI Lab</h1>
+                <h1 className="text-3xl font-bold text-primary mb-2">Sign In to AIquimia Lab</h1>
                 <p className="text-text-secondary">Access your scientific workspace and continue your research</p>
               </div>
               

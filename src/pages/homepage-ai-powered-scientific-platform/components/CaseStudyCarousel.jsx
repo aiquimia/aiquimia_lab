@@ -11,7 +11,7 @@ const CaseStudyCarousel = () => {
       id: 'drug-discovery',
       title: 'Accelerated Drug Discovery at BioPharma Labs',
       category: 'Pharmaceutical Research',
-      description: `Our team reduced compound screening time from 6 months to 2 weeks using ChemAI Lab's ADMET predictions. The platform's accuracy allowed us to focus resources on the most promising candidates, ultimately leading to a breakthrough in Alzheimer's treatment research.`,
+      description: `Our team reduced compound screening time from 6 months to 2 weeks using AIquimia Lab's ADMET predictions. The platform's accuracy allowed us to focus resources on the most promising candidates, ultimately leading to a breakthrough in Alzheimer's treatment research.`,
       results: [
         { metric: 'Time Reduction', value: '92%', icon: 'Clock' },
         { metric: 'Cost Savings', value: '$2.4M', icon: 'DollarSign' },
@@ -23,7 +23,7 @@ const CaseStudyCarousel = () => {
       image: 'https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=600&h=400&fit=crop',color: 'primary'
     },
     {
-      id: 'materials-science',title: 'Novel Polymer Development for Sustainable Packaging',category: 'Materials Science',description: `ChemAI Lab's molecular property predictions enabled us to design biodegradable polymers with specific mechanical properties. The platform's spectral analysis tools were crucial in validating our theoretical models against experimental data.`,
+      id: 'materials-science',title: 'Novel Polymer Development for Sustainable Packaging',category: 'Materials Science',description: `AIquimia Lab's molecular property predictions enabled us to design biodegradable polymers with specific mechanical properties. The platform's spectral analysis tools were crucial in validating our theoretical models against experimental data.`,
       results: [
         { metric: 'Development Speed', value: '75%', icon: 'Zap' },
         { metric: 'Material Performance', value: '45%', icon: 'Shield' },
@@ -35,7 +35,7 @@ const CaseStudyCarousel = () => {
       image: 'https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&h=400&fit=crop',color: 'secondary'
     },
     {
-      id: 'green-chemistry',title: 'Sustainable Catalyst Design for Industrial Processes',category: 'Green Chemistry',description: `Using ChemAI Lab's collaborative features, our international team designed environmentally friendly catalysts that reduced industrial waste by 60%. The platform's real-time collaboration tools were essential for coordinating across time zones.`,
+      id: 'green-chemistry',title: 'Sustainable Catalyst Design for Industrial Processes',category: 'Green Chemistry',description: `Using AIquimia Lab's collaborative features, our international team designed environmentally friendly catalysts that reduced industrial waste by 60%. The platform's real-time collaboration tools were essential for coordinating across time zones.`,
       results: [
         { metric: 'Waste Reduction', value: '60%', icon: 'Recycle' },
         { metric: 'Energy Efficiency', value: '35%', icon: 'Battery' },
@@ -82,12 +82,12 @@ const CaseStudyCarousel = () => {
           <h2 className="text-3xl sm:text-4xl font-bold text-text-primary mb-6">
             Breakthrough Discoveries Made with{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">
-              ChemAI Lab
+              AIquimia Lab
             </span>
           </h2>
           
           <p className="text-xl text-text-secondary max-w-3xl mx-auto">
-            Real research teams sharing how ChemAI Lab accelerated their discoveries and transformed their workflows.
+            Real research teams sharing how AIquimia Lab accelerated their discoveries and transformed their workflows.
           </p>
         </div>
 
